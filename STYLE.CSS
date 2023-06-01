@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(219, 212, 225);
+}
+.newnumber {
+    background-color: rgb(72, 222, 140);
+    color: black;
+    border: 2px solid black;
+    padding: 2%;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.newnumber2 {
+    
+    border: 2px solid black;
+    padding: .95%;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.gallpic {
+    background-color: rgb(15, 66, 38);
+    color: black;
+    border: 2px solid black;
+    padding: 2%;
+    margin: 10px;
+    text-align: center;
+  
+}
+
+.container1 {
+
+display: grid;
+grid-template-rows: 300px;
+margin: 5px;
+
+
+}
+
+.blacstick {
+
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+
+} 
+.blacstick img {
+
+   
+    padding: .0%;
+
+}
